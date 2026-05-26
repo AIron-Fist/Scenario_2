@@ -1,0 +1,38 @@
+ALEX MARSHALL
+Senior Software Engineer | Python & Cloud Architecture
+theaironfist@gmail.com | (555) 019-2834 | New York, NY | linkedin.com/in/alex-marshall-tech
+
+SUMMARY
+Results-driven Senior Software Engineer with over 7 years of experience designing, building, and scaling robust web applications and cloud infrastructure. Expert in Python, Django, AWS, and distributed systems. Proven track record of improving system performance by up to 40% and leading cross-functional engineering teams.
+
+PROFESSIONAL EXPERIENCE
+
+TechInnovators Inc. | New York, NY
+Senior Software Engineer | August 2023 – Present
+* Led a team of 5 engineers to re-architect a legacy monolithic application into an AWS microservices architecture, reducing server latency by 35%.
+* Developed and optimized high-throughput RESTful APIs using Python, FastAPI, and PostgreSQL, handling over 10 million daily requests.
+* Implemented automated CI/CD pipelines using GitHub Actions and Docker, cutting deployment times from 45 minutes to under 10 minutes.
+* Mentored junior and mid-level developers, establishing rigorous code review practices that reduced production bugs by 20%.
+
+Nexus Data Systems | Boston, MA
+Software Engineer II | March 2021 – July 2023
+* Designed and maintained core backend features for an enterprise-level analytics platform using Django and Celery.
+* Optimized complex SQL queries and database indexing strategy, resulting in a 50% speedup on reporting dashboards.
+* Collaborated closely with product managers to scope, design, and deliver 12 major feature releases ahead of schedule.
+* Integrated third-party payment gateways (Stripe, PayPal) with strict adherence to PCI-compliance standards.
+
+CoreLogic Solutions | Austin, TX
+Junior Software Developer | June 2019 – February 2021
+* Assisted in developing internal automation tools using Python and Bash scripts, saving the operations team 15 hours per week.
+* Wrote comprehensive unit and integration tests using PyTest, raising total code coverage from 65% to 88%.
+* Investigated and resolved critical production bugs reported by customer support teams under tight SLAs.
+
+TECHNICAL SKILLS
+* Languages: Python, JavaScript (TypeScript), SQL, Bash
+* Frameworks & Tools: Django, FastAPI, Flask, Node.js, Celery, PyTest
+* Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Git, CI/CD
+* Databases: PostgreSQL, MySQL, Redis, MongoDB
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin | Graduated May 2019
