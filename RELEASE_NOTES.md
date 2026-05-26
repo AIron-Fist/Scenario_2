@@ -8,6 +8,7 @@ Maintenance release for the release documentation.
 
 - Cleaned `RELEASE_NOTES.md` so published notes contain release content only.
 - Bumped package metadata to `1.0.1`.
+- Added repository documentation for release-note generation policy.
 - Confirmed there are no runtime application code changes in this patch release.
 - Verified the Node.js test suite still passes.
 
