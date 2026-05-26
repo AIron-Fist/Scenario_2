@@ -1,0 +1,24 @@
+SYNTHETIC PASSPORT MOCK DATA
+For parser test use only. This document is fictional and contains no real PII.
+
+DOCUMENT TYPE
+Passport
+
+PASSPORT DETAILS
+Passport Number: XZ0001847
+Country Code: IRL
+Issuing Authority: Synthetic Passport Office
+Date of Issue: 14 March 2024
+Date of Expiry: 13 March 2034
+
+HOLDER DETAILS
+Surname: O'NEILL
+Given Names: MAYA ROSE
+Nationality: Irish
+Date of Birth: 22 July 1992
+Place of Birth: Dublin, Ireland
+Sex: F
+
+MACHINE READABLE ZONE
+P<IRLONEILL<<MAYA<ROSE<<<<<<<<<<<<<<<<<<<<
+XZ0001847<7IRL9207224F3403138<<<<<<<<<<<<<<06
