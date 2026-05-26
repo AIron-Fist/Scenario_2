@@ -30,3 +30,14 @@ test('synthetic CV mock fixture is available for parser tests', () => {
   assert.match(fixture, /^TECHNICAL SKILLS$/m);
   assert.match(fixture, /^EDUCATION$/m);
 });
+
+test('synthetic passport mock fixture is available for parser tests', () => {
+  const fixturePath = path.join(__dirname, 'src', 'test', 'resources', 'mock-Passport.txt');
+  const fixture = fs.readFileSync(fixturePath, 'utf8');
+
+  assert.match(fixture, /^SYNTHETIC PASSPORT MOCK DATA$/m);
+  assert.match(fixture, /^DOCUMENT TYPE$/m);
+  assert.match(fixture, /^Passport Number: XZ0001847$/m);
+  assert.match(fixture, /^HOLDER DETAILS$/m);
+  assert.match(fixture, /^MACHINE READABLE ZONE$/m);
+});
